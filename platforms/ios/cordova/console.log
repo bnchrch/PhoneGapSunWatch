@@ -1,0 +1,463 @@
+2014-11-21 15:31:00.883 SunWatch[33370:286002] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/B4CC93C4-8DDC-4E1D-A78D-3C7EE8695927/Library/Cookies/Cookies.binarycookies
+2014-11-21 15:31:01.251 SunWatch[33370:286002] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-21 15:31:01.251 SunWatch[33370:286002] Multi-tasking -> Device: YES, App: YES
+2014-11-21 15:31:01.270 SunWatch[33370:286002] Unlimited access to network resources
+2014-11-21 15:31:01.281 SunWatch[33370:286002] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-21 15:31:02.754 SunWatch[33370:286002] Resetting plugins due to page load.
+2014-11-21 15:31:02.905 SunWatch[33370:286002] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/52ECDFD9-2630-46C1-9685-48911BCD82CC/SunWatch.app/www/index.html
+2014-11-21 15:35:55.306 SunWatch[33535:287556] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/5117A8F2-0AE0-4593-92AD-617786E9536C/Library/Cookies/Cookies.binarycookies
+2014-11-21 15:35:55.615 SunWatch[33535:287556] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-21 15:35:55.615 SunWatch[33535:287556] Multi-tasking -> Device: YES, App: YES
+2014-11-21 15:35:55.631 SunWatch[33535:287556] Unlimited access to network resources
+2014-11-21 15:35:55.642 SunWatch[33535:287556] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-21 15:35:56.413 SunWatch[33535:287556] Resetting plugins due to page load.
+2014-11-21 15:35:56.679 SunWatch[33535:287556] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/6BB788EC-4D79-4F24-AF17-BA72957CAABA/SunWatch.app/www/index.html
+2014-11-21 15:36:31.996 SunWatch[33689:288125] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/A8F1A0B9-F56A-4790-93A6-CFFA66EA6429/Library/Cookies/Cookies.binarycookies
+2014-11-21 15:36:32.081 SunWatch[33689:288125] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-21 15:36:32.081 SunWatch[33689:288125] Multi-tasking -> Device: YES, App: YES
+2014-11-21 15:36:32.082 SunWatch[33689:288125] Unlimited access to network resources
+2014-11-21 15:36:32.084 SunWatch[33689:288125] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-21 15:36:32.438 SunWatch[33689:288125] Resetting plugins due to page load.
+2014-11-21 15:36:32.544 SunWatch[33689:288125] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/FEF81181-B668-46DD-9697-30B64508ED28/SunWatch.app/www/index.html
+2014-11-23 15:59:05.587 SunWatch[34233:325083] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/704E2A0A-25AF-49D3-B40F-C228E96B90B0/Library/Cookies/Cookies.binarycookies
+2014-11-23 15:59:05.890 SunWatch[34233:325083] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-23 15:59:05.890 SunWatch[34233:325083] Multi-tasking -> Device: YES, App: YES
+2014-11-23 15:59:05.909 SunWatch[34233:325083] Unlimited access to network resources
+2014-11-23 15:59:05.925 SunWatch[34233:325083] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-23 15:59:06.805 SunWatch[34233:325083] Resetting plugins due to page load.
+2014-11-23 15:59:07.059 SunWatch[34233:325083] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/201FAD78-E0FF-4DEF-A691-BDFEA27CF942/SunWatch.app/www/index.html
+2014-11-26 11:01:32.273 SunWatch[1853:172104] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/DAA41B00-80F7-4918-ADF8-E8EEBA0190B3/Library/Cookies/Cookies.binarycookies
+2014-11-26 11:01:32.535 SunWatch[1853:172104] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 11:01:32.535 SunWatch[1853:172104] Multi-tasking -> Device: YES, App: YES
+2014-11-26 11:01:32.551 SunWatch[1853:172104] Unlimited access to network resources
+2014-11-26 11:01:32.561 SunWatch[1853:172104] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 11:01:33.325 SunWatch[1853:172104] Resetting plugins due to page load.
+2014-11-26 11:01:33.649 SunWatch[1853:172104] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/31AE1A5F-2E13-4B14-B370-7F9F65275414/SunWatch.app/www/index.html
+2014-11-26 11:03:32.704 SunWatch[2054:173170] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/BB1E5058-ACE4-490C-BE31-9E9565731F9A/Library/Cookies/Cookies.binarycookies
+2014-11-26 11:03:32.803 SunWatch[2054:173170] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 11:03:32.803 SunWatch[2054:173170] Multi-tasking -> Device: YES, App: YES
+2014-11-26 11:03:32.805 SunWatch[2054:173170] Unlimited access to network resources
+2014-11-26 11:03:32.807 SunWatch[2054:173170] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 11:03:33.161 SunWatch[2054:173170] Resetting plugins due to page load.
+2014-11-26 11:03:33.609 SunWatch[2054:173170] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/3F126E97-C617-40F2-93A2-95DF014B3176/SunWatch.app/www/index.html
+2014-11-26 11:10:59.765 SunWatch[2273:175594] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/FEB0E1E7-68A6-4DD1-BC41-2574597B0E39/Library/Cookies/Cookies.binarycookies
+2014-11-26 11:11:00.067 SunWatch[2273:175594] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 11:11:00.067 SunWatch[2273:175594] Multi-tasking -> Device: YES, App: YES
+2014-11-26 11:11:00.083 SunWatch[2273:175594] Unlimited access to network resources
+2014-11-26 11:11:00.095 SunWatch[2273:175594] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 11:11:00.894 SunWatch[2273:175594] Resetting plugins due to page load.
+2014-11-26 11:11:01.283 SunWatch[2273:175594] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/40256AD5-AFCF-49F3-91CA-2CE5489E40B2/SunWatch.app/www/index.html
+2014-11-26 11:16:00.942 SunWatch[2471:176786] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/4DC541A5-01F3-4408-BD25-EA80A6887AAE/Library/Cookies/Cookies.binarycookies
+2014-11-26 11:16:01.037 SunWatch[2471:176786] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 11:16:01.037 SunWatch[2471:176786] Multi-tasking -> Device: YES, App: YES
+2014-11-26 11:16:01.038 SunWatch[2471:176786] Unlimited access to network resources
+2014-11-26 11:16:01.040 SunWatch[2471:176786] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 11:16:01.385 SunWatch[2471:176786] Resetting plugins due to page load.
+2014-11-26 11:16:01.819 SunWatch[2471:176786] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/B0B07F1F-243F-4A20-8FB7-A51CAC20FF17/SunWatch.app/www/index.html
+2014-11-26 12:18:05.523 SunWatch[2936:192975] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/EA38C7C6-549E-418D-B5F5-8351C557C744/Library/Cookies/Cookies.binarycookies
+2014-11-26 12:18:05.842 SunWatch[2936:192975] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 12:18:05.843 SunWatch[2936:192975] Multi-tasking -> Device: YES, App: YES
+2014-11-26 12:18:05.862 SunWatch[2936:192975] Unlimited access to network resources
+2014-11-26 12:18:05.879 SunWatch[2936:192975] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 12:18:06.780 SunWatch[2936:192975] Resetting plugins due to page load.
+2014-11-26 12:18:07.289 SunWatch[2936:192975] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/4B592CE1-742E-424D-860F-3BFBF75F96EE/SunWatch.app/www/index.html
+2014-11-26 12:21:06.666 SunWatch[3129:194086] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/CF8D3ED3-0DB6-4B09-8166-BE07232442F7/Library/Cookies/Cookies.binarycookies
+2014-11-26 12:21:06.759 SunWatch[3129:194086] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 12:21:06.759 SunWatch[3129:194086] Multi-tasking -> Device: YES, App: YES
+2014-11-26 12:21:06.760 SunWatch[3129:194086] Unlimited access to network resources
+2014-11-26 12:21:06.763 SunWatch[3129:194086] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 12:21:07.154 SunWatch[3129:194086] Resetting plugins due to page load.
+2014-11-26 12:21:07.604 SunWatch[3129:194086] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/59C3063A-51E6-4397-80DE-6A59BA9F88CA/SunWatch.app/www/index.html
+2014-11-26 12:21:52.078 SunWatch[3322:194735] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/CF789CB8-A249-49D3-B87B-E0670FE88DB8/Library/Cookies/Cookies.binarycookies
+2014-11-26 12:21:52.163 SunWatch[3322:194735] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 12:21:52.163 SunWatch[3322:194735] Multi-tasking -> Device: YES, App: YES
+2014-11-26 12:21:52.165 SunWatch[3322:194735] Unlimited access to network resources
+2014-11-26 12:21:52.171 SunWatch[3322:194735] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 12:21:52.611 SunWatch[3322:194735] Resetting plugins due to page load.
+2014-11-26 12:21:52.884 SunWatch[3322:194735] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/65FAF455-1DFB-435E-BC65-99EA0543C1AD/SunWatch.app/www/index.html
+2014-11-26 12:36:48.780 SunWatch[3680:202241] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/29D55E81-259B-4E41-99B5-AA65B27AC937/Library/Cookies/Cookies.binarycookies
+2014-11-26 12:36:49.059 SunWatch[3680:202241] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 12:36:49.060 SunWatch[3680:202241] Multi-tasking -> Device: YES, App: YES
+2014-11-26 12:36:49.073 SunWatch[3680:202241] Unlimited access to network resources
+2014-11-26 12:36:49.085 SunWatch[3680:202241] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 12:36:50.014 SunWatch[3680:202241] Resetting plugins due to page load.
+2014-11-26 12:36:50.438 SunWatch[3680:202241] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/C290BBBD-806E-4842-9A13-62CEDE094CB5/SunWatch.app/www/index.html
+2014-11-26 16:11:22.596 SunWatch[4706:233574] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/181B711D-794E-4C02-9723-19FE211480F5/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:11:22.885 SunWatch[4706:233574] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:11:22.885 SunWatch[4706:233574] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:11:22.901 SunWatch[4706:233574] Unlimited access to network resources
+2014-11-26 16:11:22.915 SunWatch[4706:233574] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:11:23.772 SunWatch[4706:233574] Resetting plugins due to page load.
+2014-11-26 16:11:24.226 SunWatch[4706:233574] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/36938995-576C-45A6-A48F-5FC603F85A61/SunWatch.app/www/index.html
+2014-11-26 16:16:52.904 SunWatch[4908:235300] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/C5AE5A3D-98B9-46D5-A964-CEC841532F38/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:16:53.000 SunWatch[4908:235300] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:16:53.000 SunWatch[4908:235300] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:16:53.001 SunWatch[4908:235300] Unlimited access to network resources
+2014-11-26 16:16:53.003 SunWatch[4908:235300] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:16:53.385 SunWatch[4908:235300] Resetting plugins due to page load.
+2014-11-26 16:16:53.511 SunWatch[4908:235300] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/6671E825-56C7-454D-A4E1-12F6175FA9EE/SunWatch.app/www/index.html
+2014-11-26 16:17:42.461 SunWatch[5101:235926] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/C719444C-43A1-48F3-BBC5-6AD6E3434FD5/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:17:42.641 SunWatch[5101:235926] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:17:42.641 SunWatch[5101:235926] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:17:42.642 SunWatch[5101:235926] Unlimited access to network resources
+2014-11-26 16:17:42.647 SunWatch[5101:235926] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:17:43.023 SunWatch[5101:235926] Resetting plugins due to page load.
+2014-11-26 16:17:43.136 SunWatch[5101:235926] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/D3B33FDF-347F-426B-9348-86DB249D5212/SunWatch.app/www/index.html
+2014-11-26 16:19:51.350 SunWatch[5294:236730] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/34EC8716-FA03-425C-B0EE-92987A842BCE/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:19:51.451 SunWatch[5294:236730] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:19:51.452 SunWatch[5294:236730] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:19:51.453 SunWatch[5294:236730] Unlimited access to network resources
+2014-11-26 16:19:51.455 SunWatch[5294:236730] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:19:51.837 SunWatch[5294:236730] Resetting plugins due to page load.
+2014-11-26 16:19:51.996 SunWatch[5294:236730] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/841DB6E1-545B-46F6-945F-85BA76CC04AD/SunWatch.app/www/index.html
+2014-11-26 16:20:33.668 SunWatch[5488:237315] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/EBDB1D9B-902A-48D8-A074-DAD1E725E216/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:20:33.791 SunWatch[5488:237315] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:20:33.792 SunWatch[5488:237315] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:20:33.793 SunWatch[5488:237315] Unlimited access to network resources
+2014-11-26 16:20:33.797 SunWatch[5488:237315] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:20:34.096 SunWatch[5488:237315] Resetting plugins due to page load.
+2014-11-26 16:20:34.206 SunWatch[5488:237315] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/0502C2A9-8976-4D98-B24F-C2982FEA0041/SunWatch.app/www/index.html
+2014-11-26 16:22:01.883 SunWatch[5682:238080] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/046558B3-D5EE-46A5-8849-C4D61FFE9A41/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:22:02.071 SunWatch[5682:238080] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:22:02.071 SunWatch[5682:238080] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:22:02.073 SunWatch[5682:238080] Unlimited access to network resources
+2014-11-26 16:22:02.076 SunWatch[5682:238080] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:22:02.495 SunWatch[5682:238080] Resetting plugins due to page load.
+2014-11-26 16:22:02.667 SunWatch[5682:238080] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/A6A0CEE7-1262-44ED-ABAD-FBA06D24BE41/SunWatch.app/www/index.html
+2014-11-26 16:26:07.059 SunWatch[5879:239448] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/8929D795-AED4-4906-9488-CBC74E8CAF3F/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:26:07.173 SunWatch[5879:239448] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:26:07.173 SunWatch[5879:239448] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:26:07.174 SunWatch[5879:239448] Unlimited access to network resources
+2014-11-26 16:26:07.176 SunWatch[5879:239448] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:26:07.553 SunWatch[5879:239448] Resetting plugins due to page load.
+2014-11-26 16:26:08.124 SunWatch[5879:239448] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/8D0ACA7F-F15F-41F9-B689-16992537141A/SunWatch.app/www/index.html
+2014-11-26 16:27:43.012 SunWatch[6072:240110] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/5C3A316D-222A-45B7-A703-FC52376DAE86/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:27:43.098 SunWatch[6072:240110] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:27:43.099 SunWatch[6072:240110] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:27:43.100 SunWatch[6072:240110] Unlimited access to network resources
+2014-11-26 16:27:43.102 SunWatch[6072:240110] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:27:43.454 SunWatch[6072:240110] Resetting plugins due to page load.
+2014-11-26 16:27:43.755 SunWatch[6072:240110] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/7FEAE027-2EB8-4C6B-B2C2-E48565041CF3/SunWatch.app/www/index.html
+2014-11-26 16:30:24.711 SunWatch[6266:241167] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/516E444E-07EC-4611-9B96-5022EF040A29/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:30:24.810 SunWatch[6266:241167] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:30:24.810 SunWatch[6266:241167] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:30:24.811 SunWatch[6266:241167] Unlimited access to network resources
+2014-11-26 16:30:24.814 SunWatch[6266:241167] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:30:25.202 SunWatch[6266:241167] Resetting plugins due to page load.
+2014-11-26 16:30:25.458 SunWatch[6266:241167] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/6234EA9A-90BC-4F19-84DA-A034DEB8698F/SunWatch.app/www/index.html
+2014-11-26 16:31:02.006 SunWatch[6459:241778] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/4AE6FAC7-02FD-44D6-941E-A06FE9CA0648/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:31:02.107 SunWatch[6459:241778] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:31:02.108 SunWatch[6459:241778] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:31:02.109 SunWatch[6459:241778] Unlimited access to network resources
+2014-11-26 16:31:02.111 SunWatch[6459:241778] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:31:02.492 SunWatch[6459:241778] Resetting plugins due to page load.
+2014-11-26 16:31:02.757 SunWatch[6459:241778] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/9CCB7132-CECF-4D01-8DD5-28BACDB405A3/SunWatch.app/www/index.html
+2014-11-26 16:32:04.733 SunWatch[6652:242488] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/8655BD91-C97D-4A40-A6DA-24F3411DB650/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:32:04.826 SunWatch[6652:242488] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:32:04.826 SunWatch[6652:242488] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:32:04.827 SunWatch[6652:242488] Unlimited access to network resources
+2014-11-26 16:32:04.829 SunWatch[6652:242488] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:32:05.182 SunWatch[6652:242488] Resetting plugins due to page load.
+2014-11-26 16:32:05.632 SunWatch[6652:242488] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/92F4A05F-7848-4A57-ACCE-326EFBB0CAB4/SunWatch.app/www/index.html
+2014-11-26 16:34:04.830 SunWatch[6652:242512] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-11-26 16:37:48.793 SunWatch[6851:243934] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/35893122-9607-44F9-9598-782488B77BC0/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:37:49.016 SunWatch[6851:243934] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:37:49.017 SunWatch[6851:243934] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:37:49.031 SunWatch[6851:243934] Unlimited access to network resources
+2014-11-26 16:37:49.042 SunWatch[6851:243934] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:37:49.896 SunWatch[6851:243934] Resetting plugins due to page load.
+2014-11-26 16:37:50.185 SunWatch[6851:243934] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/404A2B4D-4D24-4081-B722-7062D3608248/SunWatch.app/www/index.html
+2014-11-26 16:45:24.436 SunWatch[7065:246451] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/291EE36C-04B5-428D-9A7D-FA1F323AB3B3/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:45:24.708 SunWatch[7065:246451] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:45:24.708 SunWatch[7065:246451] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:45:24.727 SunWatch[7065:246451] Unlimited access to network resources
+2014-11-26 16:45:24.740 SunWatch[7065:246451] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:45:25.594 SunWatch[7065:246451] Resetting plugins due to page load.
+2014-11-26 16:45:26.154 SunWatch[7065:246451] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/23B70D2F-DB3C-4EEB-81ED-DDFA68D109F3/SunWatch.app/www/index.html
+2014-11-26 16:45:46.753 SunWatch[7259:246977] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/A1780076-7AC8-4B05-99DC-3CBFCDA6D94A/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:45:46.851 SunWatch[7259:246977] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:45:46.851 SunWatch[7259:246977] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:45:46.852 SunWatch[7259:246977] Unlimited access to network resources
+2014-11-26 16:45:46.854 SunWatch[7259:246977] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:45:47.210 SunWatch[7259:246977] Resetting plugins due to page load.
+2014-11-26 16:45:47.642 SunWatch[7259:246977] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/7C5E6F3A-DE0F-4C62-ADBD-AA094DBDDD79/SunWatch.app/www/index.html
+2014-11-26 16:46:54.128 SunWatch[7452:247705] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/8D1D2271-9D15-486C-910E-79AA0A4927DA/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:46:54.314 SunWatch[7452:247705] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:46:54.314 SunWatch[7452:247705] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:46:54.315 SunWatch[7452:247705] Unlimited access to network resources
+2014-11-26 16:46:54.318 SunWatch[7452:247705] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:46:54.692 SunWatch[7452:247705] Resetting plugins due to page load.
+2014-11-26 16:46:54.965 SunWatch[7452:247705] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/A2BA0F1E-0E9A-4518-95EF-6A08C52ECCBF/SunWatch.app/www/index.html
+2014-11-26 16:50:54.855 SunWatch[7645:248758] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/3BF78633-267B-4542-B019-4407683D2C06/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:50:54.955 SunWatch[7645:248758] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:50:54.956 SunWatch[7645:248758] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:50:54.957 SunWatch[7645:248758] Unlimited access to network resources
+2014-11-26 16:50:54.959 SunWatch[7645:248758] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:50:55.347 SunWatch[7645:248758] Resetting plugins due to page load.
+2014-11-26 16:50:55.629 SunWatch[7645:248758] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/FD71362A-04CA-408D-A054-0B080F250799/SunWatch.app/www/index.html
+2014-11-26 16:51:49.878 SunWatch[7838:249503] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/3D497045-5C2B-46D6-9F36-BE723E918B70/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:51:49.973 SunWatch[7838:249503] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:51:49.974 SunWatch[7838:249503] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:51:49.975 SunWatch[7838:249503] Unlimited access to network resources
+2014-11-26 16:51:49.978 SunWatch[7838:249503] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:51:50.364 SunWatch[7838:249503] Resetting plugins due to page load.
+2014-11-26 16:51:50.524 SunWatch[7838:249503] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/324E370A-5D3C-4F53-80E4-58E83EB61AF0/SunWatch.app/www/index.html
+2014-11-26 16:52:44.481 SunWatch[8037:250245] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/F9614698-4E72-46A6-8991-798F2650CC99/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:52:44.753 SunWatch[8037:250245] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:52:44.753 SunWatch[8037:250245] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:52:44.773 SunWatch[8037:250245] Unlimited access to network resources
+2014-11-26 16:52:44.790 SunWatch[8037:250245] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:52:45.619 SunWatch[8037:250245] Resetting plugins due to page load.
+2014-11-26 16:52:46.169 SunWatch[8037:250245] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/97058D93-6DA8-405B-BF06-36F101857D1C/SunWatch.app/www/index.html
+2014-11-26 16:54:33.584 SunWatch[8231:251141] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/56DD9522-F1DB-4A50-83A0-7A05D56CEC8A/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:54:33.700 SunWatch[8231:251141] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:54:33.700 SunWatch[8231:251141] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:54:33.702 SunWatch[8231:251141] Unlimited access to network resources
+2014-11-26 16:54:33.704 SunWatch[8231:251141] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:54:34.090 SunWatch[8231:251141] Resetting plugins due to page load.
+2014-11-26 16:54:34.358 SunWatch[8231:251141] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/49C5083F-A4B2-49F4-A1D0-6E9315BB5682/SunWatch.app/www/index.html
+2014-11-26 16:57:31.603 SunWatch[8425:252275] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/7E55A38C-4E3D-477A-8106-844C00B29A10/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:57:31.772 SunWatch[8425:252275] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:57:31.772 SunWatch[8425:252275] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:57:31.775 SunWatch[8425:252275] Unlimited access to network resources
+2014-11-26 16:57:31.781 SunWatch[8425:252275] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:57:32.225 SunWatch[8425:252275] Resetting plugins due to page load.
+2014-11-26 16:57:32.852 SunWatch[8425:252275] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/83598737-90E0-4D35-A910-F0A30DA74773/SunWatch.app/www/index.html
+2014-11-26 16:59:14.606 SunWatch[8633:253344] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Data/Application/FEF777FD-1D63-4579-9233-24D8AAB17172/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:59:14.872 SunWatch[8633:253344] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:59:14.872 SunWatch[8633:253344] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:59:14.892 SunWatch[8633:253344] Unlimited access to network resources
+2014-11-26 16:59:14.906 SunWatch[8633:253344] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:59:15.688 SunWatch[8633:253344] Resetting plugins due to page load.
+2014-11-26 16:59:16.185 SunWatch[8633:253344] Finished load of: file:///Users/ben/Library/Developer/CoreSimulator/Devices/3AC52D69-27D9-40ED-992D-5999FD1FDE11/data/Containers/Bundle/Application/39CC7EA1-0EC6-4A73-ACA1-1D6BD127C270/SunWatch.app/www/index.html
